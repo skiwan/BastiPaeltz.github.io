@@ -3,6 +3,15 @@
 	font-family: 'Cabin', sans-serif;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Cabin', sans-serif;
+}
+
 h1 {
 	color: #2a9fd6;
 }
@@ -26,6 +35,10 @@ th.field-name{
 hr.docutils {
 	border-top: 2px solid #b2b2b2;
 	padding: 10px;
+}
+
+.section {
+	margin-bottom: 30px;
 }
 
 #footer {
