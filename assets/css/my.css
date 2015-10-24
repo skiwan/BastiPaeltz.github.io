@@ -1,0 +1,34 @@
+* {
+	font-size: 103%;
+	font-family: 'Cabin', sans-serif;
+}
+
+h1 {
+	color: #2a9fd6;
+}
+
+h2 {
+	font-size: 40px;
+}
+
+td.field-body{
+	color: #888888;
+}
+
+table {
+	background-color: black;
+}
+
+th.field-name{
+	color: #d2b195;
+}
+
+hr.docutils {
+	border-top: 2px solid #b2b2b2;
+	padding: 10px;
+}
+
+#footer {
+	margin-top: 15px;
+	padding-top: 10px;
+}
